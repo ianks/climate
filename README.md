@@ -43,6 +43,11 @@ $ bash -c "$(wget https://raw.githubusercontent.com/adtac/climate/master/install
 And that's it! It should automatically look for dependencies and install them.
 After that's done, run `climate` to see the whole list of commands supported.
 
+If you are using Arch Linux, [the package can be installing from the AUR](https://aur.archlinux.org/packages/climate):
+
+```bash
+$ pacaur -S climate
+```
 
 
 ## Requirements
